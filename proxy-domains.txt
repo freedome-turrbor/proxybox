@@ -1,0 +1,4 @@
+xsts.auth.xboxlive.com
+user.auth.xboxlive.com
+device.auth.xboxlive.com
+title.auth.xboxlive.com
